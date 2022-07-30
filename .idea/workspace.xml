@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6731beb-a4ab-4f5f-8c68-ca662b1773d9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-files/file5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new-files/file5.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659141824673</updated>
       <workItem from="1659141825845" duration="827000" />
-      <workItem from="1659142735347" duration="1692000" />
+      <workItem from="1659142735347" duration="2103000" />
     </task>
     <task id="LOCAL-00001" summary="Commit files 5,6,7">
       <created>1659142306461</created>
