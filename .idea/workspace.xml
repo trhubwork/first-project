@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6731beb-a4ab-4f5f-8c68-ca662b1773d9" name="Changes" comment="" />
+    <list default="true" id="b6731beb-a4ab-4f5f-8c68-ca662b1773d9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file8.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659141824673</updated>
       <workItem from="1659141825845" duration="827000" />
-      <workItem from="1659142735347" duration="219000" />
+      <workItem from="1659142735347" duration="1692000" />
     </task>
     <task id="LOCAL-00001" summary="Commit files 5,6,7">
       <created>1659142306461</created>
@@ -56,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659142528069</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add file 8">
+      <created>1659143048770</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659143048770</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +86,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit files 5,6,7" />
     <MESSAGE value="Update to file 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update to file 5" />
+    <MESSAGE value="Add file 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add file 8" />
   </component>
 </project>
