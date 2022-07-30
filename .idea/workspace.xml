@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b6731beb-a4ab-4f5f-8c68-ca662b1773d9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new-files/file5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new-files/file5.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +88,7 @@
     <MESSAGE value="Commit files 5,6,7" />
     <MESSAGE value="Update to file 5" />
     <MESSAGE value="Add file 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add file 8" />
+    <MESSAGE value="Changes Made in BR-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes Made in BR-3" />
   </component>
 </project>
