@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6731beb-a4ab-4f5f-8c68-ca662b1773d9" name="Changes" comment="">
+    <list default="true" id="b6731beb-a4ab-4f5f-8c68-ca662b1773d9" name="Changes" comment="Merge branch 'BR-3'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;file7.txt&#10;#&#9;new-files/file5.txt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new-files/file5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new-files/file5.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+            </State>
           </value>
         </entry>
       </map>
